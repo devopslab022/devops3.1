@@ -16,7 +16,7 @@ public class WebpageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://github.com/devopslab022/devops3.1/");
+        driver.get("https://devopslab022.github.io/devops3.1/");
 
     }
 
